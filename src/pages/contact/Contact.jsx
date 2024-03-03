@@ -65,7 +65,7 @@ const Contact = () => {
                         rel="noreferrer"
                         target="_blank"
                      >
-                        @kartik_im
+                        @SYed Fouziya Thabassum
                      </a>
                   </div>
                </div>
